@@ -1,0 +1,7 @@
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Service\bin\Debug\netstandard2.0\Upstox_Service.deps.json
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Service\bin\Debug\netstandard2.0\Upstox_Service.dll
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Service\bin\Debug\netstandard2.0\Upstox_Service.pdb
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Service\obj\Debug\netstandard2.0\Upstox_Service.AssemblyInfoInputs.cache
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Service\obj\Debug\netstandard2.0\Upstox_Service.AssemblyInfo.cs
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Service\obj\Debug\netstandard2.0\Upstox_Service.dll
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Service\obj\Debug\netstandard2.0\Upstox_Service.pdb

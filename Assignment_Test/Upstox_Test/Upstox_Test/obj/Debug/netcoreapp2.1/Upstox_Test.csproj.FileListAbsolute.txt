@@ -1,0 +1,13 @@
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Test\bin\Debug\netcoreapp2.1\Upstox_Test.deps.json
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Test\bin\Debug\netcoreapp2.1\Upstox_Test.runtimeconfig.json
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Test\bin\Debug\netcoreapp2.1\Upstox_Test.runtimeconfig.dev.json
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Test\bin\Debug\netcoreapp2.1\Upstox_Test.dll
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Test\bin\Debug\netcoreapp2.1\Upstox_Test.pdb
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Test\obj\Debug\netcoreapp2.1\Upstox_Test.csprojAssemblyReference.cache
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Test\obj\Debug\netcoreapp2.1\Upstox_Test.AssemblyInfoInputs.cache
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Test\obj\Debug\netcoreapp2.1\Upstox_Test.AssemblyInfo.cs
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Test\obj\Debug\netcoreapp2.1\Upstox_Test.dll
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Test\obj\Debug\netcoreapp2.1\Upstox_Test.pdb
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Test\bin\Debug\netcoreapp2.1\Upstox_Service.dll
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Test\bin\Debug\netcoreapp2.1\Upstox_Service.pdb
+D:\Jyoti\Interview\Assignment_Test\Upstox_Test\Upstox_Test\obj\Debug\netcoreapp2.1\Upstox_Test.csproj.CopyComplete

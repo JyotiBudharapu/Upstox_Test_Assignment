@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Jyoti\\Interview\\Assignment_Test\\Upstox_Test\\Upstox_Service\\Upstox_Service.csproj": {}
+  },
+  "projects": {
+    "D:\\Jyoti\\Interview\\Assignment_Test\\Upstox_Test\\Upstox_Service\\Upstox_Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Jyoti\\Interview\\Assignment_Test\\Upstox_Test\\Upstox_Service\\Upstox_Service.csproj",
+        "projectName": "Upstox_Service",
+        "projectPath": "D:\\Jyoti\\Interview\\Assignment_Test\\Upstox_Test\\Upstox_Service\\Upstox_Service.csproj",
+        "packagesPath": "C:\\Users\\jyoti.budharapu\\.nuget\\packages\\",
+        "outputPath": "D:\\Jyoti\\Interview\\Assignment_Test\\Upstox_Test\\Upstox_Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jyoti.budharapu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "D:\\Project\\Delarue\\DLRPackages\\DLRPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
